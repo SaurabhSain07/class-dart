@@ -7,5 +7,6 @@ void main() {
     print("It is Even Number");
   } else {
     print("It is Odd Number");
+    print("Thank you");
   }
 }
